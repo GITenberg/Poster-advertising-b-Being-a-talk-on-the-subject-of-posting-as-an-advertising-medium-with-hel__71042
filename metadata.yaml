@@ -1,0 +1,34 @@
+_repo: Poster-advertising-b-Being-a-talk-on-the-subject-of-posting-as-an-advertising-medium-with-hel__71042
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawkins, George Henry Edward
+    alias: Hawkins, G. H. E.
+    gutenberg_agent_id: '56053'
+    url: http://www.gutenberg.org/2009/agents/56053
+description: ''
+gutenberg_issued: '2023-06-25'
+identifiers:
+  gutenberg: '71042'
+  lccn: '10027865'
+language: en
+pgterms:marc904: https://archive.org/details/posteradvertisin00hawk
+pgterms:marc905: 20150311010222hawkins
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bThe Author?, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Advertising'
+- !lcsh 'Posters'
+- !lcc 'HF'
+- GITenberg
+title: 'Poster advertising : $b Being a talk on the subject of posting as an advertising
+  medium, with helpful hints and sensible suggestions to poster advertisers, and with
+  thirty-two pages of full color reproductions of posters used by national advertisers'
+url: http://www.gutenberg.org/ebooks/71042
